@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:'Courier New', Courier, monospace
+    
+}
+.entrega{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 45px;
+    
+}
+
+.bolder{
+    font-weight: bolder;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.otro{
+    color: rgba(63, 63, 119, 0.671);
+    font-size: 25px;
+    font-weight: bolder;
+
+}
